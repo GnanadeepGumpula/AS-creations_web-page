@@ -581,7 +581,7 @@ header Az {
   justify-content: center;
   align-items: center;
   flex-wrap: wrap;
-  
+  left: 0; right: 0;
 }
 
 .about_in .box {
@@ -589,6 +589,7 @@ header Az {
   width: 20rem;
   height: 20rem;
   margin: 4rem;
+  left: 0; right: 0;
 }
 
 .about_in .box:hover .imgBox {
